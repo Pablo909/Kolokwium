@@ -1,0 +1,5 @@
+C:\Users\Pablo\source\repos\Po_Kol_PawelBronk\zadanie_2\bin\Debug\zadanie_2.exe.config
+C:\Users\Pablo\source\repos\Po_Kol_PawelBronk\zadanie_2\bin\Debug\zadanie_2.exe
+C:\Users\Pablo\source\repos\Po_Kol_PawelBronk\zadanie_2\bin\Debug\zadanie_2.pdb
+C:\Users\Pablo\source\repos\Po_Kol_PawelBronk\zadanie_2\obj\Debug\zadanie_2.exe
+C:\Users\Pablo\source\repos\Po_Kol_PawelBronk\zadanie_2\obj\Debug\zadanie_2.pdb
